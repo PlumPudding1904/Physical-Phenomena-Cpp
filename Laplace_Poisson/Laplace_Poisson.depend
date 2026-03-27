@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1713182003 source:c:\users\lazaninka\desktop\k\test_allegro\laplace_poisson\laplace_poisson.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cmath>
+	<cstdlib>
+	<stdio.h>
+
