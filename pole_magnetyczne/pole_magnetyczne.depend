@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719237168 source:c:\users\lazaninka\desktop\k\test_allegro\pole_magnetyczne\pole_magnetyczne.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+
