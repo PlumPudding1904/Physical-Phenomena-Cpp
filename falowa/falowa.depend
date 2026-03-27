@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1718132614 source:c:\users\lazaninka\desktop\k\test_allegro\falowa\falowa.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+
