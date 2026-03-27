@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1710151961 source:c:\users\lazaninka\desktop\k\untitled3.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1710153973 source:c:\users\lazaninka\desktop\k\untitled3.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1710153973 source:c:\users\lazaninka\desktop\k\baza.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1718135369 source:c:\users\lazaninka\desktop\k\rk4.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1719255837 source:c:\users\lazaninka\desktop\k\test_allegro\test\rk4.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
